@@ -7,6 +7,7 @@
 
 Questions | Réponses
 ------------ | -------------
+Birthday | 16/08
 Gender | Mâle
 Favorite color | Orange
 Favorite food | Européenne et Asiatique
@@ -26,4 +27,4 @@ Favorite food | Européenne et Asiatique
 
 ### La vie est belle !
 
-<<[previous]()||WANT ARNAUD||[next]()>>
+<<[previous]()||WANT ARNAUD||[next](https://github.com/Michael-Zerghe/challenge-markdown/blob/main/Challenge.md)>>
